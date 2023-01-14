@@ -1,10 +1,6 @@
 package lv_0;
 
 public class P120899 {
-
-}
-
-class Solution {
     public int[] solution(int[] array) {
         int[] answer = new int[2];
         
@@ -24,3 +20,4 @@ class Solution {
         return answer;
     }
 }
+
